@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Jancik-Kitowski  
 - 👀 I’m interested in developing with AI and expanding on my coding knowledge.
-- 🌱 I’m currently learning RAG development, as well as AI implementation in my apps
+- 🌱 I’m currently learning Swift coding language, as well as AI implementation in my apps
 - 💞️ I’m looking to collaborate on any contract work as well as any project that pushes my coding ability
 - 📫 How to reach me find me on LinkedIn (www.linkedin.com/in/michael-jancik-kitowski-00aa24114)
 - 😄 Pronouns: He/Him
